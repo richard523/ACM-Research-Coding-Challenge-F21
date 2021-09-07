@@ -26,7 +26,12 @@ https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment?text=thi
 Youtube tutorial used:
 https://www.youtube.com/watch?v=szczpgOEdXs
 
+
+
+
 ***** TO RUN ******
+
+
 OPEN sentimentAnalysisSolFINAL.ipynb in jupyter notebooks 
 
 
