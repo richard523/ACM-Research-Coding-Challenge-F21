@@ -27,7 +27,9 @@ Youtube tutorial used:
 https://www.youtube.com/watch?v=szczpgOEdXs
 
 ***** TO RUN ******
-OPEN sentimentAnalysisSolFINAL.ipynb in jupyter notebooks
+OPEN sentimentAnalysisSolFINAL.ipynb in jupyter notebooks 
+
+
 RUN all parts in order
 
 
