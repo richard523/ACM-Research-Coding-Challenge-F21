@@ -26,5 +26,10 @@ https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment?text=thi
 Youtube tutorial used:
 https://www.youtube.com/watch?v=szczpgOEdXs
 
+***** TO RUN ******
+OPEN sentimentAnalysisSolFINAL.ipynb in jupyter notebooks
+RUN all parts in order
 
+
+Tools used: pytorch, NLTK, BERT, Positive/negative words from Minqing and Bing
 
